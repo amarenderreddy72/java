@@ -8,3 +8,7 @@ exceptional handling
 
 output executed
 thank you
+
+extension
+welcome to python 
+exit
